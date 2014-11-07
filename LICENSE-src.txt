@@ -1,0 +1,14 @@
+INTLAND SOFTWARE LICENSE AGREEMENT FOR
+CODEBEAMER SOURCE CODE
+
+
+THIS DOCUMENT ACCOMPANIES INTLAND SOFTWARE'S "LICENSE.txt" WHICH
+IS FOUND IN THE SAME DISTRIBUTION PACKAGE.
+
+1. License.
+Intland Software does not provide any kind of support for software 
+built from modified CodeBeamer source code.
+
+2. NOTICE.
+The Intland CodeBeamer product is Copyrighted (c) by Intland GmbH. Intland CodeBeamer and
+Intland are trademarks of Intland Software.

@@ -1,0 +1,32 @@
+<!--
+	This script compiles all wiki plugins.
+
+	@author <a href="mailto:zsolt.koppany@intland.com">Zsolt Koppany</a>
+	@version $Id$
+-->
+
+<project name="CodeBeamer Wiki Plugins" default="compile" basedir=".">
+	<!-- configuration -->
+	<property name="WIKIPLUGIN_SRC_HOME" location="src" />
+	<property name="CODEBEAMER_HOME" location="/Program Files/CB-5.0" />
+	<property name="TOMCAT_HOME" location="${CODEBEAMER_HOME}/tomcat" />
+
+	<!-- computed paths -->
+	<property name="CODEBEAMER_WEB" location="${TOMCAT_HOME}/webapps/cb/WEB-INF" />
+	<property name="CODEBEAMER_LIB" location="${CODEBEAMER_WEB}/lib" />
+
+	<path id="codebeamer.classpath">
+		<fileset dir="${TOMCAT_HOME}/common/lib" includes="**/*.jar" />
+		<fileset dir="${TOMCAT_HOME}/server/lib" includes="**/*.jar" />
+		<fileset dir="${CODEBEAMER_LIB}" includes="**/*.jar" casesensitive="no" />
+	</path>
+
+	<target name="compile" description="Compiles all wiki plugins">
+		<echo message="Compiling plugins in ${WIKIPLUGIN_SRC_HOME} to CodeBeamer in ${CODEBEAMER_HOME}" />
+		<javac compiler="javac1.5" source="1.5" target="1.5" deprecation="off"
+			srcdir="${WIKIPLUGIN_SRC_HOME}/com/intland/codebeamer/wiki/plugins"
+			destdir="${CODEBEAMER_WEB}/classes" debug="on" optimize="on">
+			<classpath refid="codebeamer.classpath" />
+		</javac>
+	</target>
+</project>

@@ -1,0 +1,163 @@
+INTLAND SOFTWARE LICENSE AGREEMENT FOR
+CODEBEAMER SERVER AND CLIENT
+
+Revisited 23.04.2010
+
+
+PLEASE READ THIS DOCUMENT CAREFULLY DOWNLOADING CODEBEAMER FROM THE
+INTLAND WEB SITE, OR INSTALLING THE PROGRAM ON YOUR COMPUTER.  THE
+INDIVIDUAL OR ENTITY INSTALLING THE SOFTWARE (THE "END USER") AGREES TO BE
+BOUND BY THE TERMS OF THIS LICENSE.  IF YOU OPEN THIS PACKAGE AND DO NOT
+AGREE TO THE TERMS OF THIS LICENSE, DO NOT USE THE SOFTWARE AND PROMPTLY
+RETURN THE PACKAGE UNOPENED, AND THE LICENSE PRICE WILL BE REFUNDED.
+
+CodeBeamer and the accompanying documentation are provided to the End-User ("Licensor") for
+use only under the following terms.  Licensor reserves any right not expressly granted to the End-
+user.  The End-User owns the disk, or the downloaded product on which the Software is recorded,
+but Licensor retains ownership of all copies of the Software itself.  The End-User assumes sole
+responsibility for the installation, use and results obtained from use of the Software.
+
+1. Software License.
+
+This License Agreement grants Licensee the following non-exclusive rights:
+
+a) CodeBeamer Server. For each Server Software license purchased, the Product may install, and
+use one copy of the Server Software on one server computer. The number of individual server
+computers on which CodeBeamer can run, is limited to the number of CodeBeamer Server licenses
+purchased. Licensor may make one back-up copy of the Software for archival purposes only, and
+may install one copy of the Server on one additional non-production server solely for non-
+production, non-testserver purposes such as backup server.
+
+b) Client Applications using the API (Application Programming Interface):  Plug-in and application
+development using the API shall be performed on a non-production server. CodeBeamer
+Eclipse Studio and other applications using the API, shall be used only in conjunction with authorized
+Named Users licenses, and only for Licensee's internal purposes. Applications and Plug-in
+developed by Licensee are not warranted by or supported by Intland.
+
+
+c)	 Type of Authorized Users. Users must consist of either (i) 	Licensee's employees, or (ii)
+representatives of Licensee's suppliers, vendors, customers or other business partners, provided
+that, and only as long as, such representatives are actively working on a Licensee project with a
+Licensee employee or are otherwise providing services to Licensee in direct support of Licensee's
+internal business operations.
+
+d) Number of Users.
+
+(i) If you have acquired NAMED LICENSE, the Software may be accessed and used by up to
+that specified number of individual "Named Users" for whom Licensee has been purchased.
+Named Users may change the identity of the Named Users from time to time. CodeBeamer
+works with user accounts. Each user account requires one Named License. For each user
+Login one Named license is required. The total number of CodeBeamer user accounts may not
+exceed the total number of Named Licenses purchased. CodeBeamer Eclipse Studio application
+shall be used only in conjunction with authorized Named Users licenses.
+
+(ii) If you have acquired FLOATING LICENSE, the Software may accessed and used by
+multiple concurrent users where the number of concurrent users at any point of time may not
+exceed the total number of Floating Licenses purchased. Floating licenses define the number
+of concurrent users on UNIX/Linux or Windows machines. Floating license is a license you can
+share in a network.
+
+
+2.  Restrictions Limitations on Reverse Engineering.
+The Licensor may NOT sublicense, assign, or distribute copies of the Software to others.  The
+Software contains trade secrets.
+
+a) Limitations on Reverse Engineering, Decompilation. The Licensor MAY NOT DECOMPILE,
+REVERSE ENGINEER or TRANSLATE the Software.
+
+b) No copies or modifications. Except with respect to permitted modification, customization and
+distribution of the samples provided with the distribution kit, the Software may not be modified in any
+way.
+
+c) No Rental. While Licensor may name non-employee third parties as authorized Named and/or
+Floating Users, this Agreement does not authorize Licensee to act as a CodeBeamer Application
+Service Provider or commercial hoster, or otherwise allow Licensee to rent, lease or provide access
+to CodeBeamer Software to third parties for their benefit.
+
+d) No Transfer. Software may not be assigned or transferred without Intland prior consent.
+
+3.  Protection and Security.
+The End-User agrees to use its best efforts and to take all reasonable steps to safeguard the
+Software to ensure that no unauthorized person shall have access thereto and that no unauthorized
+copy, publication, disclosure or distribution in whole or in part, in any form, shall be made.  The End-
+User acknowledges that the Software contains valuable confidential information and trade secrets
+and that unauthorized use and/or copying is harmful to Licensor.
+
+4.  Termination.
+This License is effective until terminated.  This License will terminate immediately without notice
+from Licensor if the End User fails to comply with any of its provisions.  Upon termination the End
+User must destroy the Software and all copies thereof, and the End-User may terminate this
+License at any time by doing so.
+
+5.  Limited Warranty.
+Licensor warrants that, from the date of initial use by the original End User, the Software shall
+operate substantially in accordance with the published functional specifications current at the time
+of shipment.  If, during the warranty period, a defect appears, End User shall return the Software to
+Licensor and Licensor's only obligation shall be, at Licensor's election, to replace the defective
+Software or refund the purchase price.  The End-User agrees that the foregoing constitutes the
+End-User's sole and exclusive remedy for breach by Licensor under any warranties made under
+this Agreement.  This warranty does not cover any Software that has been altered or changed in
+any way by anyone other than Licensor.  Licensor is not responsible for problems associated with or
+caused by incompatible operating systems or equipment, or for problems in the interaction of the
+Software with software not furnished by Licensor.
+
+No oral or written information or advice given by Licensor or its dealers, distributors, employees or
+agents shall in any way extend, modify or add to the foregoing warranty.
+
+THE WARRANTY AND REMEDY PROVIDED ABOVE ARE EXCLUSIVE AND IN LIEU OF ALL
+OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE.  THE END-USER ASSUMES ALL RISK AS TO THE SUITABILITY, QUALITY, AND
+PERFORMANCE OF THE SOFTWARE.  IN NO EVENT WILL LICENSOR, OR ITS DIRECTORS,
+OFFICERS, EMPLOYEES OR AFFILIATES, BE LIABLE TO THE END-USER FOR ANY
+CONSEQUENTIAL INCIDENTAL, INDIRECT, SPECIAL OR EXEMPLARY DAMAGES (INCLUDING
+DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF DATA
+OR BUSINESS INFORMATION, AND THE LIKE) ARISING OUT OF THE USE OF OR INABILITY
+TO USE THE SOFTWARE OR ACCOMPANYING WRITTEN MATERIALS, EVEN IF LICENSOR
+HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+LICENSOR'S LIABILITY TO THE END-USER (IF ANY) FOR ACTUAL DIRECT DAMAGES FOR
+ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF THE ACTION, WILL BE
+LIMITED TO, AND IN NO EVENT SHALL EXCEED, THE AMOUNT ORIGINALLY PAID TO
+LICENSOR FOR THE LICENSE OF THE SOFTWARE.
+
+IN NO EVENT SHALL LICENSOR'S OR ITS DIRECTORS, OFFICERS, EMPLOYEES OR
+AFFILIATES TOTAL CUMULATIVE LIABILITY TO ANY USER OR OTHER PARTY UNDER THESE
+TERMS OF SERVICE OR OTHERWISE EXCEED THE AMOUNT ORIGINALLY PAID TO
+LICENSOR FOR THE LICENSE OR SERVICE.
+
+6.  Enhancements.
+From time to time Licensor may, in its sole discretion, advise the End-User of updates, upgrades,
+enhancements or improvements to the Software and/or new releases of the Software (collectively,
+"Enhancements"), and may license the End-User to use such Enhancements upon payment of
+prices as may be established by Licensor from time to time.  All such Enhancements to the Software
+provided to the End-User shall also be governed by the terms of this License.  IN ORDER FOR THE
+END-USER TO BE ASSURED THAT IT WILL BE ADVISED OF AND LICENSED TO USE ANY
+ENHANCEMENTS TO THE SOFTWARE, THE END-USER MUST COMPLETE, SIGN AND
+RETURN TO LICENSOR THE ATTACHED END-USER REGISTRATION CARD.
+
+7.  General.
+This License will be governed by and construed in accordance with the laws of the Federal
+Republic of Germany, and shall insure to the benefit of Licensor and End-User and their
+successors, assigns and legal representatives.  If any provision of this License is held by a court of
+competent jurisdiction to be invalid or unenforceable to any extent under applicable law, that
+provision will be enforced to the maximum extent permissible and the remaining provisions of this
+License will remain in full force and effect.  Any notices or other communications to be sent to
+Licensor must be mailed first class, postage prepaid, to Intland.
+This Agreement constitutes the entire agreement between the parties with respect to the subject
+matter hereof, and all prior proposals, agreements, representations, statements and undertakings
+are hereby expressly canceled and superseded.  This Agreement may not be changed or
+amended except by a written instrument executed by a duly authorized officer of Licensor.
+
+8. NOTICE.
+The Intland CodeBeamer product is Copyrighted by Intland Software GmbH. Intland CodeBeamer and
+Intland are trademarks of Intland Software.
+
+The Software is available for use by end users according to the License Agreement. Any
+reproduction or redistribution of the Software not in accordance with the License Agreement is
+expressly prohibited by law, and may result in severe civil and criminal penalties. Violators will be
+prosecuted to the maximum extent possible.
+WITHOUT LIMITING THE FOREGOING, COPYING OR REPRODUCTION OF THE SOFTWARE
+TO ANY OTHER SERVER OR LOCATION FOR FURTHER REPRODUCTION OR
+REDISTRIBUTION IS EXPRESSLY PROHIBITED, UNLESS SUCH REPRODUCTION OR
+REDISTRIBUTION IS EXPRESSLY PERMITTED BY THE LICENSE AGREEMENT
